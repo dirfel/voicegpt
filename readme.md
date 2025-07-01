@@ -1,6 +1,7 @@
 # O que é?
 O VoiceGPT é um mecanismo que utiliza plugins de inteligência artificial para permitir um chat com a maquina por voz.
-
+#
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=github&style=for-the-badge)](https://github.com/sponsors/dirfel)
 # Como funciona?
 Funciona parecido como uma ALEXA, que ao executar o arquivo main.py, o bot conversará com você. Caso você fale a palavra "SUPER" no inicio da frase, o bot entrará no modo pergunta, dessa forma, o que for falado com o bot será processado por um Large Language Model (LLM), semelhante ao Chat GPT e a resposta será sintetizada para o usuário.
 
@@ -28,3 +29,6 @@ Funciona parecido como uma ALEXA, que ao executar o arquivo main.py, o bot conve
 - parametrizar dinamicamente o atributo max_tokens conforme a pergunta do usuário
 - permitir a captura do audio, transcrição e processamento simultanemente (exige alto poder computacional)
 - melhorar o arquivo readme.md
+
+#
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=github&style=for-the-badge)](https://github.com/sponsors/dirfel)
